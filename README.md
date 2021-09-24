@@ -9,3 +9,4 @@ Predige/Predige is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 20/9/2021 - Dia que tendre en cuenta en ponerme al dia, espero llegar lejos.... llegare lejos.
+24/9/2021 - Un dia normal, tratando de aprender co esto.
